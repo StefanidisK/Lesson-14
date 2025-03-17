@@ -1,1 +1,2 @@
-# Lesson-14
+# Lesson 14
+Create a simple calculator that asks for two values and then asks the user what operation they want to do with the values.  Each operation should be programmed in a separate function. Your calculator should have at least three functions. Two of your calculations can be simple (add, subtract, etc...). Atleast one of your functions needs to be more complicated (turn the numbers into binary, find all of the prime numbers in between the two numbers, convert the number into a coded word....)
